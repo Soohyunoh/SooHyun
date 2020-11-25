@@ -1,1 +1,1 @@
-# SooHyun
+# Studying Statistics
