@@ -2,11 +2,11 @@
 ### Data Collection
 #### TXT DATA
 1. 3-15-cv-01741-JE Adidas
-> * Adidas Complaint 2015-09-14 
-> * Adidas Court Opinion 2018-03-10 
-> * Adidas Opinion and Order 2016-02-12 
-> * Adidas Opinion and Order 2016-04-16 
-> * Adidas Opinion and Order 2017-08-03 
+ * Adidas Complaint 2015-09-14 
+ * Adidas Court Opinion 2018-03-10 
+ * Adidas Opinion and Order 2016-02-12 
+ * Adidas Opinion and Order 2016-04-16 
+ * Adidas Opinion and Order 2017-08-03 
 2. 2-20-cv-00675 Aterlier Luxury Group
 > * AtelierLuxuryGroup AmendedComplaint 2020-08-24 
 > * AtelierLuxuryGroup Complaint 2020-01-22 
