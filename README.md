@@ -1,7 +1,7 @@
 # Topic Modeling
 ### Data Collection
 #### TXT DATA
-* 3-15-cv-01741-JE Adidas
+* *3-15-cv-01741-JE Adidas*
   + Adidas Complaint 2015-09-14 
   + Adidas Court Opinion 2018-03-10 
   + Adidas Opinion and Order 2016-02-12 
