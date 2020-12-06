@@ -40,7 +40,8 @@
   + David M. Blei; Andrew Y. Ng; Michael I. Jordan 
   + Journal of Machine Learning Research 3.
   + <https://doi.org/10.1162/jmlr.2003.3.4-5.993>
-* **Xuerui Wang; Andrew McCallum; Xing Wei (2007). Topical N-Grams: Phrase and Topic Discovery, with an Application to Information Retrieval.**
+* **(2007). Topical N-Grams: Phrase and Topic Discovery, with an Application to Information Retrieval.**
+  + Xuerui Wang; Andrew McCallum; Xing Wei 
   + IEEE International Conference on Data Mining 7.
   + <https://doi.org/10.1109/ICDM.2007.86>
 ##### CODE of LDA
