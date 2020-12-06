@@ -38,10 +38,10 @@
 #### CONCEPT of LDA
 1. David M. Blei; Andrew Y. Ng; Michael I. Jordan (2003). Latent Dirichelt Allocation. 
 > * Journal of Machine Learning Research 3.
-> * <10.1162/jmlr.2003.3.4-5.993>
+> * <https://doi.org/10.1162/jmlr.2003.3.4-5.993>
 2. Xuerui Wang; Andrew McCallum; Xing Wei (2007). Topical N-Grams: Phrase and Topic Discovery, with an Application to Information Retrieval. 
 > * IEEE International Conference on Data Mining 7.
-> * <10.1109/ICDM.2007.86>
+> * <https://doi.org/10.1109/ICDM.2007.86>
 ##### CODE of LDA
 
 * * *
