@@ -36,7 +36,8 @@
 
 ### Latent Dirichelt Allocation
 #### CONCEPT of LDA
-* **David M. Blei; Andrew Y. Ng; Michael I. Jordan (2003). Latent Dirichelt Allocation.**
+* **(2003). Latent Dirichelt Allocation.**
+  + David M. Blei; Andrew Y. Ng; Michael I. Jordan 
   + Journal of Machine Learning Research 3.
   + <https://doi.org/10.1162/jmlr.2003.3.4-5.993>
 * **Xuerui Wang; Andrew McCallum; Xing Wei (2007). Topical N-Grams: Phrase and Topic Discovery, with an Application to Information Retrieval.**
@@ -48,7 +49,8 @@
 
 ### TSNE
 #### CONCEPT of TSNE
-* **Laurens van der Maaten; Geoffrey Hinton (2008). Visualizing Data using t-SNE.**
+* **(2008). Visualizing Data using t-SNE.**
+  + Laurens van der Maaten; Geoffrey Hinton 
   + Journal of Machine Learning Research 9.
   + <http://www.jmlr.org/papers/v9/vandermaaten08a.html>
 #### CODE of TSNE
