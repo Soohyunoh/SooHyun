@@ -1,0 +1,43 @@
+11-3303-cv
+Christian Louboutin S.A. v. Yves Saint Laurent Am. Holding, Inc.
+(Argued: January 24, 2012 / Decided: March 8, 2013)
+
+UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT
+
+August Term, 2011
+Docket No. 11-3303-cv 
+
+CHRISTIAN LOUBOUTIN S.A., CHRISTIAN LOUBOUTIN, L.L.C., CHRISTIAN LOUBOUTIN, Plaintiffs-Counter-Defendants-Appellants,
+v.
+YVES SAINT LAURENT AMERICA HOLDING, INC., YVES SAINT LAURENT S.A.S., YVES SAINT LAURENT AMERICA, INC.,
+Defendants-Counter-Claimants-Appellees,
+YVES SAINT LAURENT, (an unincorporated association), JOHN DOES, A TO Z, (Unidentified), JANE DOES, A TO Z, (Unidentified), XYZ COMPANIES, 1 TO 10, (Unidentified), 
+
+Defendants-Appellees.
+
+
+Before: CABRANES, STRAUB, and LIVINGSTON, Circuit Judges.
+
+Fashion designer Christian Louboutin brings this appeal from an August 10, 2011 order of the United States District Court for the Southern District of New York (Victor Marrero, Judge) denying a motion for a preliminary injunction against alleged trademark infringement by Yves Saint Laurent (“YSL”), a competing fashion house. In an opinion filed September 5, 2012, we concluded that the District Court’s holding that a single color can never serve as a trademark in the fashion industry, Christian Louboutin S.A. v. Yves Saint Laurent Am., Inc., 778 F. Supp. 2d 445, 451, 457 (S.D.N.Y. 2011), was inconsistent with the Supreme Court’s decision in Qualitex Co. v. Jacobson Products Co., 514 U.S. 159, 162 (1995), and that the District Court therefore erred by resting its denial of Louboutin’s preliminary injunction motion on that ground. We further held that Louboutin’s trademark, consisting of a red, lacquered outsole on a high fashion woman’s shoe, when limited to uses in which the red outsole contrasts with the color of the remainder of the shoe, has acquired “secondary meaning” as a distinctive symbol that identifies the Louboutin brand. Pursuant to Section 37 of the Lanham Act, 15 U.S.C. § 1119, we therefore limited the trademark to uses in which the red outsole contrasts with the color of the remainder of the shoe. Because Louboutin sought to enjoin YSL from using a red sole as part of a monochrome red shoe, we affirmed in part the order of the District Court insofar as it declined to enjoin the use of red lacquered outsoles in all situations.
+On September 27, 2012, the Clerk of the Court issued a mandate which, inter alia, directed the United States Patent and Trademark Office to “make appropriate entry upon that Office’s records to reflect that U.S. Trademark Registration No. 3,361,597, held by Christian Louboutin and dated January 1, 2008, is limited to a red lacquered outsole on footwear that contrasts with the color of the adjoining (“upper”) portion of the shoe.” On January 25, 2013, Louboutin filed a letter with the Clerk of the Court requesting a modification of that mandate. Because Louboutin has not made the showing necessary for recall of the mandate, we deny that letter motion.
+Motion denied.
+
+HARLEY I. LEWIN (Lee Carl Bromberg and Charles D. Ray, on the brief), McCarter & English, LLP, New York, NY, Boston, MA, Hartford, CT, for Plaintiffs- Counter-Defendants-Appellants Christian Louboutin S.A., Christian Louboutin, L.L.C., Christian Louboutin.
+
+DAVID H. BERNSTEIN (Jyotin Hamid and Rayna S. Feldman, on the brief), Debevoise & Plimpton LLP, New York, NY, for Defendants-Counter-Claimants-Appellees Yves Saint Laurent America Holding, Inc., Yves Saint Laurent S.A.S., and Yves Saint Laurent America, Inc., and Defendants-Appellees Yves Saint Laurent, (an unincorporated association), John Does, A to Z, (Unidentified), Jane Does, A to Z, (Unidentified), XYZ Companies, (Unidentified).
+
+Janet L. Cullum (John W. Crittenden, Cooley LLP, San Francisco, CA, and Susan J. Hightower, Pirkey Barber LLP, Austin, TX, on the brief), Cooley LLP, New York, NY, for amicus curiae International Trademark Association, in support of Plaintiffs-Counter-Defendants-Appellants.
+
+Richard Z. Lehv (Jason D. Jones on the brief), Fross Zelnick Lehrman & Zissu, P.C., New York, NY, for amici curiae Tiffany (NJ) LLC and Tiffany & Co., in support of Plaintiffs-Counter-Defendants-Appellants.
+
+Rebecca Tushnet, Professor of Law, Georgetown University Law Center, Washington, D.C., on the brief, for amici curiae Professors of Law in Trademark and Related Fields, in support of Defendants-Counter-Claimants-Appellees.
+
+
+PER CURIAM:
+This litigation concerns the validity of a trademark for a red, lacquered outsole on a high fashion woman’s shoe. On September 5, 2012, we issued an opinion which, inter alia, limited the trademark, pursuant to Section 37 of the Lanham Act, 15 U.S.C. § 1119, to uses in which the red outsole contrasts with the color of the remainder of the shoe. On September 27, 2012, the Clerk of the Court issued a mandate which directed the United States Patent and Trademark Office (“USPTO”) to “make appropriate entry upon that Office’s records to reflect that U.S. Trademark Registration No. 3,361,597, held by Christian Louboutin and dated January 1, 2008, is limited to a red lacquered outsole on footwear that contrasts with the color of the adjoining (“upper”) portion of the shoe.”
+
+Plaintiffs Louboutin, Christian Louboutin S.A., and Christian Louboutin, L.L.C. (jointly, “Louboutin”) now seek a modification of the mandate. Louboutin advises the Court that the USPTO intends to amend the trademark by adopting the language of mandate verbatim. Louboutin argues that we should modify the mandate to instruct the USPTO to revise the trademark in a manner that, in Louboutin’s view, would be more precise.
+
+Louboutin does not, however, identify any authority for making such a modification to the mandate. Indeed, granting Louboutin’s request would require us to recall the mandate. See Sargent v. Columbia Forest Prods., Inc., 75 F.3d 86, 89 (2d Cir. 1996); Johnstone v. Kelly, 812 F.2d 821, 821-22 (2d Cir. 1987). Our power to recall a mandate “can be exercised only in extraordinary circumstances” and “is one of last resort, to be held in reserve against grave, unforeseen contingencies.” Calderon v. Thompson, 523 U.S. 538, 550 (1998); see also Sargent, 75 F.3d at 89 (observing that the power to recall a mandate “is to be exercised sparingly . . . and reserved for exceptional circumstances.” (internal quotation marks and citations omitted)). We have previously identified four factors to consider in determining whether to recall a mandate: “(1) whether the governing law is unquestionably inconsistent with the earlier decision; (2) whether the movant brought to the Court’s attention that a dispositive decision was pending in another court; (3) whether there was a substantial lapse in time between the issuing of the mandate and the motion to recall the mandate; and (4) whether the equities ‘strongly favor’ relief.” Stevens v. Miller, 676 F.3d 62, 69 (2d Cir. 2012) (quoting Sargent, 75 F.3d at 90).
+
+Louboutin has made no showing that any of the factors favor recall and modification of the mandate. In short, this matter does not present the “exceptional circumstances” required to grant such a request. Sargent, 75 F.3d at 89 (internal quotation marks omitted). Louboutin’s motion is therefore DENIED.
