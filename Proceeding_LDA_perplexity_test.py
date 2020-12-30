@@ -11,7 +11,7 @@ from sklearn.manifold import TSNE
 
 
 # Corpus
-directory_path = '/Users/osuhyeon/NLTK_court_document/3 TXTDATA/'
+directory_path = '/Users/osuhyeon/NLTK_court_document/TXTDATA/'
 Case_file_dict = {
     "Case1_file_path" : [
         'Adidas Complaint 2015-09-14',  
@@ -62,7 +62,7 @@ exclude.extend([x.upper() for x in exclude_sub])
 
 
 parties = []
-parties_attorneys = "/Users/osuhyeon/NLTK_court_document/3 TXTDATA/[Praties_Attorneys].txt"
+parties_attorneys = "/Users/osuhyeon/NLTK_court_document/TXTDATA/[Praties_Attorneys].txt"
 parties_file_read = open(parties_attorneys, "r").readlines()
 
 for party in parties_file_read:
