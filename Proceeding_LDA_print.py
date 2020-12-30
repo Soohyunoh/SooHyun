@@ -221,7 +221,7 @@ for i in inputrange:
 
     # Ingredients for LDA
     # Perplexity
-    saved_path = "/Users/osuhyeon/NLTK_court_document/4 LDA Perplexities/"
+    saved_path = "/Users/osuhyeon/NLTK_court_document/(Result) LDA Perplexities/"
     perplexity_str = open(saved_path + "Case%d.txt" % int(i), 'r').read()
     perplexity_re = re.sub("{|}", "", perplexity_str)
     perplexity_dict = dict(item.split(":") for item in perplexity_re.split(","))
@@ -251,7 +251,7 @@ for i in inputrange:
         ngram_tf_train = ngram_tf_train)
 
     # save numpy Latent Dirichlet Allocation result
-    saveLDAnumpy = "/Users/osuhyeon/NLTK_court_document/4 LDA Numpy/" 
+    saveLDAnumpy = "/Users/osuhyeon/NLTK_court_document/(Result) LDA Numpy/" 
     np.save(saveLDAnumpy + "Case%d" % int(i), lda_train)
     # To open numpy file, Use code below:
     # numpyfile = np.load(filepath + ".npy")
@@ -264,7 +264,7 @@ for i in inputrange:
         n_features = n_features)
 
     # save text dictionary
-    saveTextDictionary = "/Users/osuhyeon/NLTK_court_document/4 LDA Text Dictionary/"
+    saveTextDictionary = "/Users/osuhyeon/NLTK_court_document/(Result) LDA Text Dictionary/"
     saveTextDictionaryName = saveTextDictionary + "Case%d" % int(i)
     with open(saveTextDictionaryName, 'w', encoding="UTF8") as f:
         f.write(str(topic_words_dict))
