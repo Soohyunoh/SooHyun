@@ -211,7 +211,7 @@ for i in inputrange:
         train_data= corpus,
         stop_words = stopwords)
 
-    save_path = "/Users/osuhyeon/NLTK_court_document/4 LDA Perplexities/"
+    save_path = "/Users/osuhyeon/NLTK_court_document/(Result) LDA Perplexities/"
     with open(save_path + "CASE%d.txt" % i, 'w') as f:
         savedict = dict(zip(var_n_components_1_20, lda_train_perplexities))
         f.write(str(savedict))
@@ -220,7 +220,7 @@ print("All LDA processes are completed! Check the folder : \n %s" % save_path)
 
 """
 colors = ['firebrick', 'red', 'darkorange','gold', 'springgreen', 'magenta', 'darkmagenta', 'blue', 'grey']
-save_path = "/Users/osuhyeon/NLTK_court_document/4 LDA Perplexities/"
+save_path = "/Users/osuhyeon/NLTK_court_document/(Result) LDA Perplexities/"
 
 plotlist = [] 
 
