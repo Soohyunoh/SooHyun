@@ -1,0 +1,192 @@
+Import LDA_trained files with Case index _ 
+Start Value _ (start from 1)
+1
+End Value _ (end by 8)
+8
+Start with a range_ 
+[1, 2, 3, 4, 5, 6, 7] <class 'list'>
+For Case1 _ 
+type(npy_train_data):  <class 'numpy.ndarray'>
+np.shape(npy_train_data):  (607, 13)
+number of topics:  13
+min_perplexity:  58.57647757701268
+[t-SNE] Computing 176 nearest neighbors...
+[t-SNE] Indexed 607 samples in 0.000s...
+[t-SNE] Computed neighbors for 607 samples in 0.027s...
+[t-SNE] Computed conditional probabilities for sample 607 / 607
+[t-SNE] Mean sigma: 0.000000
+[t-SNE] Computed conditional probabilities in 0.043s
+[t-SNE] Iteration 50: error = 60.2103157, gradient norm = 0.2834166 (50 iterations in 0.693s)
+[t-SNE] Iteration 100: error = 65.3673401, gradient norm = 0.2360257 (50 iterations in 0.652s)
+[t-SNE] Iteration 150: error = 68.1589127, gradient norm = 0.2374921 (50 iterations in 0.648s)
+[t-SNE] Iteration 200: error = 70.1989288, gradient norm = 0.2204191 (50 iterations in 0.596s)
+[t-SNE] Iteration 250: error = 71.0434341, gradient norm = 0.2146080 (50 iterations in 0.554s)
+[t-SNE] KL divergence after 250 iterations with early exaggeration: 71.043434
+[t-SNE] Iteration 300: error = 1.3378910, gradient norm = 0.0007708 (50 iterations in 0.454s)
+[t-SNE] Iteration 350: error = 1.2128135, gradient norm = 0.0003833 (50 iterations in 0.479s)
+[t-SNE] Iteration 400: error = 1.1107316, gradient norm = 0.0001819 (50 iterations in 0.499s)
+[t-SNE] Iteration 450: error = 1.0373362, gradient norm = 0.0001020 (50 iterations in 0.497s)
+[t-SNE] Iteration 500: error = 0.9863882, gradient norm = 0.0000708 (50 iterations in 0.501s)
+[t-SNE] KL divergence after 500 iterations: 0.986388
+tsne_trained_data: (607, 3)
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case1.npy saved?  True
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case1_3d.png saved? True
+For Case2 _ 
+type(npy_train_data):  <class 'numpy.ndarray'>
+np.shape(npy_train_data):  (293, 9)
+number of topics:  9
+min_perplexity:  53.95967889175073
+[t-SNE] Computing 162 nearest neighbors...
+[t-SNE] Indexed 293 samples in 0.000s...
+[t-SNE] Computed neighbors for 293 samples in 0.007s...
+[t-SNE] Computed conditional probabilities for sample 293 / 293
+[t-SNE] Mean sigma: 0.369922
+[t-SNE] Computed conditional probabilities in 0.013s
+[t-SNE] Iteration 50: error = 68.3880615, gradient norm = 0.3326028 (50 iterations in 0.219s)
+[t-SNE] Iteration 100: error = 84.5684586, gradient norm = 0.2589957 (50 iterations in 0.198s)
+[t-SNE] Iteration 150: error = 97.1303940, gradient norm = 0.2331715 (50 iterations in 0.197s)
+[t-SNE] Iteration 200: error = 102.4609985, gradient norm = 0.2163346 (50 iterations in 0.195s)
+[t-SNE] Iteration 250: error = 104.0189514, gradient norm = 0.2253003 (50 iterations in 0.190s)
+[t-SNE] KL divergence after 250 iterations with early exaggeration: 104.018951
+[t-SNE] Iteration 300: error = 2.5522456, gradient norm = 0.0004955 (50 iterations in 0.201s)
+[t-SNE] Iteration 350: error = 2.2009997, gradient norm = 0.0001911 (50 iterations in 0.202s)
+[t-SNE] Iteration 400: error = 2.0413377, gradient norm = 0.0001092 (50 iterations in 0.201s)
+[t-SNE] Iteration 450: error = 1.9483802, gradient norm = 0.0000745 (50 iterations in 0.203s)
+[t-SNE] Iteration 500: error = 1.8813748, gradient norm = 0.0000567 (50 iterations in 0.203s)
+[t-SNE] KL divergence after 500 iterations: 1.881375
+tsne_trained_data: (293, 3)
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case2.npy saved?  True
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case2_3d.png saved? True
+For Case3 _ 
+type(npy_train_data):  <class 'numpy.ndarray'>
+np.shape(npy_train_data):  (322, 7)
+number of topics:  7
+min_perplexity:  62.97350954466618
+[t-SNE] Computing 189 nearest neighbors...
+[t-SNE] Indexed 322 samples in 0.000s...
+[t-SNE] Computed neighbors for 322 samples in 0.005s...
+[t-SNE] Computed conditional probabilities for sample 322 / 322
+[t-SNE] Mean sigma: 0.318517
+[t-SNE] Computed conditional probabilities in 0.017s
+[t-SNE] Iteration 50: error = 69.4972076, gradient norm = 0.3346483 (50 iterations in 0.251s)
+[t-SNE] Iteration 100: error = 84.1134415, gradient norm = 0.2785103 (50 iterations in 0.242s)
+[t-SNE] Iteration 150: error = 91.4912949, gradient norm = 0.2631571 (50 iterations in 0.222s)
+[t-SNE] Iteration 200: error = 99.0944824, gradient norm = 0.2524513 (50 iterations in 0.221s)
+[t-SNE] Iteration 250: error = 104.3455429, gradient norm = 0.2408889 (50 iterations in 0.231s)
+[t-SNE] KL divergence after 250 iterations with early exaggeration: 104.345543
+[t-SNE] Iteration 300: error = 2.4813981, gradient norm = 0.0004863 (50 iterations in 0.281s)
+[t-SNE] Iteration 350: error = 2.1034143, gradient norm = 0.0001895 (50 iterations in 0.293s)
+[t-SNE] Iteration 400: error = 1.9397541, gradient norm = 0.0001100 (50 iterations in 0.293s)
+[t-SNE] Iteration 450: error = 1.8443347, gradient norm = 0.0000750 (50 iterations in 0.298s)
+[t-SNE] Iteration 500: error = 1.7819848, gradient norm = 0.0000562 (50 iterations in 0.294s)
+[t-SNE] KL divergence after 500 iterations: 1.781985
+tsne_trained_data: (322, 3)
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case3.npy saved?  True
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case3_3d.png saved? True
+For Case4 _ 
+type(npy_train_data):  <class 'numpy.ndarray'>
+np.shape(npy_train_data):  (424, 11)
+number of topics:  11
+min_perplexity:  62.63626626985832
+[t-SNE] Computing 188 nearest neighbors...
+[t-SNE] Indexed 424 samples in 0.000s...
+[t-SNE] Computed neighbors for 424 samples in 0.012s...
+[t-SNE] Computed conditional probabilities for sample 424 / 424
+[t-SNE] Mean sigma: 0.306635
+[t-SNE] Computed conditional probabilities in 0.024s
+[t-SNE] Iteration 50: error = 68.9256592, gradient norm = 0.3466394 (50 iterations in 0.449s)
+[t-SNE] Iteration 100: error = 78.7463226, gradient norm = 0.3014021 (50 iterations in 0.361s)
+[t-SNE] Iteration 150: error = 85.0277557, gradient norm = 0.2799695 (50 iterations in 0.389s)
+[t-SNE] Iteration 200: error = 88.0597763, gradient norm = 0.2775759 (50 iterations in 0.353s)
+[t-SNE] Iteration 250: error = 90.8734436, gradient norm = 0.2674686 (50 iterations in 0.354s)
+[t-SNE] KL divergence after 250 iterations with early exaggeration: 90.873444
+[t-SNE] Iteration 300: error = 2.1531568, gradient norm = 0.0006395 (50 iterations in 0.371s)
+[t-SNE] Iteration 350: error = 1.7776662, gradient norm = 0.0002245 (50 iterations in 0.374s)
+[t-SNE] Iteration 400: error = 1.5899521, gradient norm = 0.0001231 (50 iterations in 0.363s)
+[t-SNE] Iteration 450: error = 1.4762549, gradient norm = 0.0000822 (50 iterations in 0.363s)
+[t-SNE] Iteration 500: error = 1.3946861, gradient norm = 0.0000606 (50 iterations in 0.369s)
+[t-SNE] KL divergence after 500 iterations: 1.394686
+tsne_trained_data: (424, 3)
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case4.npy saved?  True
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case4_3d.png saved? True
+For Case5 _ 
+type(npy_train_data):  <class 'numpy.ndarray'>
+np.shape(npy_train_data):  (228, 8)
+number of topics:  8
+min_perplexity:  52.72078056960594
+[t-SNE] Computing 159 nearest neighbors...
+[t-SNE] Indexed 228 samples in 0.000s...
+[t-SNE] Computed neighbors for 228 samples in 0.003s...
+[t-SNE] Computed conditional probabilities for sample 228 / 228
+[t-SNE] Mean sigma: 0.446812
+[t-SNE] Computed conditional probabilities in 0.010s
+[t-SNE] Iteration 50: error = 61.6955223, gradient norm = 0.3523189 (50 iterations in 0.154s)
+[t-SNE] Iteration 100: error = 74.0597839, gradient norm = 0.2877911 (50 iterations in 0.141s)
+[t-SNE] Iteration 150: error = 85.8037643, gradient norm = 0.2968691 (50 iterations in 0.140s)
+[t-SNE] Iteration 200: error = 98.9034576, gradient norm = 0.2471967 (50 iterations in 0.140s)
+[t-SNE] Iteration 250: error = 103.1470032, gradient norm = 0.2143235 (50 iterations in 0.138s)
+[t-SNE] KL divergence after 250 iterations with early exaggeration: 103.147003
+[t-SNE] Iteration 300: error = 2.2875137, gradient norm = 0.0004224 (50 iterations in 0.142s)
+[t-SNE] Iteration 350: error = 2.0056603, gradient norm = 0.0001703 (50 iterations in 0.147s)
+[t-SNE] Iteration 400: error = 1.8810341, gradient norm = 0.0001001 (50 iterations in 0.146s)
+[t-SNE] Iteration 450: error = 1.8100296, gradient norm = 0.0000708 (50 iterations in 0.148s)
+[t-SNE] Iteration 500: error = 1.7580936, gradient norm = 0.0000532 (50 iterations in 0.151s)
+[t-SNE] KL divergence after 500 iterations: 1.758094
+tsne_trained_data: (228, 3)
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case5.npy saved?  True
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case5_3d.png saved? True
+For Case6 _ 
+type(npy_train_data):  <class 'numpy.ndarray'>
+np.shape(npy_train_data):  (157, 18)
+number of topics:  18
+min_perplexity:  102.33112972924478
+[t-SNE] Computing 156 nearest neighbors...
+[t-SNE] Indexed 157 samples in 0.000s...
+[t-SNE] Computed neighbors for 157 samples in 0.002s...
+[t-SNE] Computed conditional probabilities for sample 157 / 157
+[t-SNE] Mean sigma: 0.662412
+[t-SNE] Computed conditional probabilities in 0.007s
+[t-SNE] Iteration 50: error = 63.6935120, gradient norm = 0.2851275 (50 iterations in 0.087s)
+[t-SNE] Iteration 100: error = 84.4914627, gradient norm = 0.2310923 (50 iterations in 0.086s)
+[t-SNE] Iteration 150: error = 107.9722443, gradient norm = 0.1905842 (50 iterations in 0.079s)
+[t-SNE] Iteration 200: error = 118.8108521, gradient norm = 0.1727277 (50 iterations in 0.080s)
+[t-SNE] Iteration 250: error = 126.5438919, gradient norm = 0.1330859 (50 iterations in 0.079s)
+[t-SNE] KL divergence after 250 iterations with early exaggeration: 126.543892
+[t-SNE] Iteration 300: error = 2.1355214, gradient norm = 0.0003620 (50 iterations in 0.089s)
+[t-SNE] Iteration 350: error = 1.7804416, gradient norm = 0.0001520 (50 iterations in 0.086s)
+[t-SNE] Iteration 400: error = 1.6250288, gradient norm = 0.0000909 (50 iterations in 0.088s)
+[t-SNE] Iteration 450: error = 1.5387354, gradient norm = 0.0000629 (50 iterations in 0.087s)
+[t-SNE] Iteration 500: error = 1.4842334, gradient norm = 0.0000473 (50 iterations in 0.089s)
+[t-SNE] KL divergence after 500 iterations: 1.484233
+tsne_trained_data: (157, 3)
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case6.npy saved?  True
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case6_3d.png saved? True
+For Case7 _ 
+type(npy_train_data):  <class 'numpy.ndarray'>
+np.shape(npy_train_data):  (907, 11)
+number of topics:  11
+min_perplexity:  62.627992839183804
+[t-SNE] Computing 188 nearest neighbors...
+[t-SNE] Indexed 907 samples in 0.000s...
+[t-SNE] Computed neighbors for 907 samples in 0.037s...
+[t-SNE] Computed conditional probabilities for sample 907 / 907
+[t-SNE] Mean sigma: 0.000000
+[t-SNE] Computed conditional probabilities in 0.078s
+[t-SNE] Iteration 50: error = 55.8090630, gradient norm = 0.1343821 (50 iterations in 1.122s)
+[t-SNE] Iteration 100: error = 52.7398376, gradient norm = 0.0792707 (50 iterations in 0.737s)
+[t-SNE] Iteration 150: error = 52.6404953, gradient norm = 0.0809343 (50 iterations in 0.654s)
+[t-SNE] Iteration 200: error = 52.6313057, gradient norm = 0.0765637 (50 iterations in 0.659s)
+[t-SNE] Iteration 250: error = 52.6112595, gradient norm = 0.0742800 (50 iterations in 0.657s)
+[t-SNE] KL divergence after 250 iterations with early exaggeration: 52.611259
+[t-SNE] Iteration 300: error = 0.3515570, gradient norm = 0.0003462 (50 iterations in 0.610s)
+[t-SNE] Iteration 350: error = 0.3380263, gradient norm = 0.0001307 (50 iterations in 0.646s)
+[t-SNE] Iteration 400: error = 0.3353456, gradient norm = 0.0000832 (50 iterations in 0.625s)
+[t-SNE] Iteration 450: error = 0.3346969, gradient norm = 0.0000560 (50 iterations in 0.639s)
+[t-SNE] Iteration 500: error = 0.3328874, gradient norm = 0.0000506 (50 iterations in 0.640s)
+[t-SNE] KL divergence after 500 iterations: 0.332887
+tsne_trained_data: (907, 3)
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case7.npy saved?  True
+Is /Users/osuhyeon/NLTK_court_document/4 TSNE/Case7_3d.png saved? True
+Complete all process!
+Check file directories:
+/Users/osuhyeon/NLTK_court_document/4 TSNE/
