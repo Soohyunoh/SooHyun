@@ -88,8 +88,8 @@ def tsne_scatterplot_3d(tsne_data, lda_data):
 
 
 # import LDA_trained files.
-saveLDAnumpy = "/Users/osuhyeon/NLTK_court_document/4 LDA Numpy/" 
-saveLDAperplexity = "/Users/osuhyeon/NLTK_court_document/4 LDA Perplexities/"
+saveLDAnumpy = "/Users/osuhyeon/NLTK_court_document/(Result) LDA Numpy/" 
+saveLDAperplexity = "/Users/osuhyeon/NLTK_court_document/(Result) LDA Perplexities/"
 
 # Start with an Input Range
 print("Import LDA_trained files with Case index _ ")
@@ -135,7 +135,7 @@ for i in inputrange:
 
     # post-tsne_operator:
     # np.save(tsne_data)
-    tsne_savedir = "/Users/osuhyeon/NLTK_court_document/4 TSNE/"
+    tsne_savedir = "/Users/osuhyeon/NLTK_court_document/(Result) TSNE/"
     tsne_savename = tsne_savedir + "Case%d.npy" % int(i)
 
     np.save(tsne_savename, tsne_trained_data)
