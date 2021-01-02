@@ -118,19 +118,20 @@ def Corpus(Case_file_path, corpus, word_filter):
                 untokenized_sentences.append(newsentence)
 
         tokenized = [nltk.tokenize.word_tokenize(untokenized_sentences[i]) for i in range(len(untokenized_sentences))]
-        str_sentence = []
+
         # Access for individual sentence.
         # Becasuse lemmatizing is available for individual word.
         for sentence in tokenized:
             lemmatized_sentence = [WordNetLemmatizer().lemmatize(word, 'v') for word in sentence]
             filtered_sentence = [x for x in lemmatized_sentence if x not in word_filter and len(x) > 2]
+            
             each_str_sentence = ' '.join(filtered_sentence)
-            str_sentence.append(each_str_sentence)
-
+            str_sentence = "".join(each_str_sentence)
+            corpus.append(str_sentence)
         print("Making corpus by adding a file: ", file)
-        corpus.extend(str_sentence)
+        
         # Be Cautious!
-        # corpus.append() : to make dictionary assorted by each files        
+        # corpus = 1 item conntected to 1 sentece for 1 document           
     return corpus
 
 
